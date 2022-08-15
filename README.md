@@ -19,6 +19,7 @@ In 2022, as my company got a bit more independent, I started taking [RocketSeat]
   * I like to live a healthy life and my routine includes gym and cycling (not so often as I would like)
   * I have a good understanding of stocks, bonds, funds and etc. And currently have a long-term focused investment portfolio
   * I consume a lot of business, entrepreneurship and investments content 24/7
+* Fun fact: I have a good sense of humor, love jokes, but I'm a bit of an introspect at first
 
 ## 🙋‍♂️ Why hire me?
 I am looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
