@@ -10,7 +10,8 @@ I started to learn coding from [Alura](https://github.com/alura-cursos)'s PHP an
 
 In 2022, as my company got a bit more independent, I started taking [RocketSeat](https://github.com/Rocketseat) courses, where I could leverage my skills for production ReactJS and Node.js environments, and started to pursue this new carreer.
 
-## 💡 What do I do and what have I done?
+## 💡 More about me
+* I'm fluent in English and Portuguese
 * Found [Hostel4Pets](https://github.com/hostel4pets), which is one of the best (if not the best 🤩) dog boarding and daycare companies in Recife, Brazil
 * In [Hostel4Pets](https://github.com/hostel4pets), I'm not only coding, but I'm responsible for managing our social media accounts (10k plus followers [@hostel4pets](https://www.instagram.com/hostel4pets/)), creating content and marketing campaigns, designing illustrations using Adobe Illustration and Photoshop, editing videos and so on. Nothing is impossible to get the results we need!!!
 * While in college, I volunteered on our newsblog([Jornal Canal 16](http://jornalcanal16.com.br/)) as writer and developer of our website's first version, using wordpress
