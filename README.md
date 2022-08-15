@@ -1,4 +1,4 @@
-## Hello World 👋
+# Hello World 👋
 
 I'm a web developer from Brazil, who loves business, and is currently open to work. I'm now making a carrer change, and I'm searching for an opportunity to enter the technology market as a fullstack (front or backend as well) junior developer. I'm also working at my own company [Hostel4Pets](https://github.com/hostel4pets), where I built our own ERP from scratch using ReactJs/Node.js stack. But, I'm willing to learn any stack if needed.
 
