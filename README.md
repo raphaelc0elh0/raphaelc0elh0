@@ -8,7 +8,7 @@ I have a <em>nautical science bachelor degree</em> and worked as Merchant Navy O
 
 I started to learn coding from [Alura](https://github.com/alura-cursos)'s PHP and Ruby courses in 2019, because I wanted to create an ERP for my company [Hostel4Pets](https://github.com/hostel4pets). I learned all on my free time onboard and on vacations. From there, we got bigger and bigger, I stopped sailing, and I switched the stack entirely to Typescript (ReactJs/Node.js), which is the language I mainly code nowadays.
 
-In 2022, as my company got a bit more independent, I started taking (RocketSeat)[https://github.com/Rocketseat] courses, where I could leverage my skills for production ReactJS and Node.js environments, and started to pursue this new carreer.
+In 2022, as my company got a bit more independent, I started taking [RocketSeat](https://github.com/Rocketseat) courses, where I could leverage my skills for production ReactJS and Node.js environments, and started to pursue this new carreer.
 
 ## 💡 What do I do and what have I done?
 * Found [Hostel4Pets](https://github.com/hostel4pets), which is one of the best (if not the best 🤩) dog boarding and daycare companies in Recife, Brazil
