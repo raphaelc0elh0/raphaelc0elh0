@@ -29,3 +29,11 @@ I am looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate
 * [Whatsapp](https://wa.me/5581999006449)
 * [Linkedin](https://www.linkedin.com/in/raphaelc0elh0/)
 * [Instagram](https://www.instagram.com/raphaelc0elh0/)
+
+## 📊 Stats (including private)
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelc0elh0&count_private=true&layout=compact)
+![Raphael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@raphaelc0elh0&layout=compact&langs_count=6&custom_title=WakaTime+Stats+(all+time))
+
+
+
+
