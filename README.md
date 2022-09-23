@@ -1,6 +1,6 @@
 # Hello World 👋
 
-I'm a web developer from Brazil, who loves business, and is currently open to work. I'm now making a carrer change, and I'm searching for an opportunity to enter the technology market as a fullstack (front or backend as well) junior developer. I'm also working at my own company [Hostel4Pets](https://github.com/hostel4pets), where I built our own ERP from scratch using ReactJs/Node.js stack. But, I'm willing to learn any stack if needed.
+I'm a web developer from Brazil, who loves business, and is currently open to work. I'm now making a carrer change, and I'm searching for an opportunity to enter the technology market as a fullstack developer.
 
 ##  📖 A litle bit of context
 
@@ -11,15 +11,10 @@ I started to learn coding from [Alura](https://github.com/alura-cursos)'s PHP an
 In 2022, as my company got a bit more independent, I started taking [RocketSeat](https://github.com/Rocketseat) courses, where I could leverage my skills for production ReactJS and Node.js environments, and started to pursue this new carreer.
 
 ## 💡 More about me
-* I'm fluent in English and Portuguese
+* I speak in English and Portuguese
 * Found [Hostel4Pets](https://github.com/hostel4pets), which is one of the best (if not the best 🤩) dog boarding and daycare companies in Recife, Brazil
-* In [Hostel4Pets](https://github.com/hostel4pets), I'm not only coding, but I'm responsible for managing our social media accounts (10k plus followers [@hostel4pets](https://www.instagram.com/hostel4pets/)), creating content and marketing campaigns, designing illustrations using Adobe Illustration and Photoshop, editing videos and so on. Nothing is impossible to get the results we need!!!
 * While in college, I volunteered on our newsblog([Jornal Canal 16](http://jornalcanal16.com.br/)) as writer and developer of our website's first version, using wordpress
 * I graduated as first of my class and, as a prize, I had been on an exchange program in Denmark for 6 months, to complete my nautical education
-* I try to think long-term in all aspects of my life, including finance and health, so:
-  * I like to live a healthy life and my routine includes gym and cycling (not so often as I would like)
-  * I have a good understanding of stocks, bonds, funds and etc. And currently have a long-term focused investment portfolio
-  * I consume a lot of business, entrepreneurship and investments content 24/7
 * Fun fact: I have a good sense of humor, love jokes, but I'm a bit of an introspect at first
 
 ## 🙋‍♂️ Why hire me?
