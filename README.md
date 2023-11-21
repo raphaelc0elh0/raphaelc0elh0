@@ -6,6 +6,10 @@ Founder @ [Hostel4pets](https://github.com/hostel4pets)
 
 ## 👨‍💻 Technologies
 
+* ![Languages](https://img.shields.io/badge/-Languages-white?style=flat)
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 * ![Backend](https://img.shields.io/badge/-Backend-white?style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
